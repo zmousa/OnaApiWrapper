@@ -1,7 +1,7 @@
 package com.zenus.ona.util;
 
 public class Constants {
-	public static String AUTHORIZATION = "Basic emFoZXJfbW91c2E6emljb3N0YW44OEBpcmM=";
+	public static String AUTHORIZATION = ""; // Enter your token
 	
 	public static String URL_ALL_FORMS = "https://api.ona.io/api/v1/forms";
 	public static String URL_FORM_DETAILS = "api.ona.io/api/v1/forms/$";
